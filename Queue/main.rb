@@ -52,7 +52,7 @@ while true
       end
 
     when 5
-      puts "\nSaindo ..."
+      puts "\nSaindo..."
       break
     end
   else
